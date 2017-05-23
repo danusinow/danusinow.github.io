@@ -380,7 +380,7 @@ ul li {
 .social-icons, .footer .footer-share {
   margin-top: 30px; }
   .social-icons li, .footer .footer-share li {
-    float: left; }
+    float: center; }
   .social-icons a, .footer .footer-share a {
     border: 1px solid #e8ecee;
     -moz-border-radius: 2px;
