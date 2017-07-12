@@ -221,12 +221,12 @@
                 </div>
                 <div class="col-md-3 col-sm-5">
                     <div class="person">
-                        <img src="images/Team_Merv.jpg" alt="" class="img-responsive">
+                        <img src="images/Team_Sarah.jpg" alt="" class="img-responsive">
                         <div class="person-content">
-                            <h4>Mervin Schrock</h4>
+                            <h4>Sarah Huss</h4>
                             <h5 class="role">Laboratory technician</h5>
-                            <h6>MSchrock (at) danforthcenter.org</h6>
-                            <h6>ORCID ID: Coming</h6>
+                            <h6>SHuss (at) danforthcenter.org</h6>
+                            <h6>ORCID ID: 0000-0003-3201-1954</h6>
                             <p></p>
                             <p></p>
                             <p></p>
@@ -243,19 +243,19 @@
                     <div class="feature-content">
                         <h5>Lab Alumni</h5>
                         <h4>2016</h4>
-                        <p><b>David Stroshein,</b> Lawrence Technological University, NSF-REU (Graduate School, U of Arizona)</p>
+                        <p><b>David Stroshein,</b> Lawrence Technological University, NSF-REU</p>
                         <p><b>J'Loan Pittman,</b> Washington University, St. Louis, uSTAR Program</p>
                         <h4>2015</h4>
-                        <p><b>Dhruv Patel,</b> Cornell, NSF-REU (Graduate School, UC Berkeley)</p>
-                        <p><b>Hannah Lucas,</b> U. of Wisconsin, Madison, NSF-REU (Graduate School, Washington U, St. Louis)</p>
+                        <p><b>Dhruv Patel,</b> Cornell, NSF-REU</p>
+                        <p><b>Hannah Lucas,</b> U. of Wisconsin, Madison, NSF-REU</p>
                         <p><b>Ali Peet,</b> St. Joseph’s Academy, Independent Intern</p>
                         <p><b>WIll Wolfe,</b> John Burroughs High School, Independent Intern</p>
                         <h4>2014</h4>
-                        <p><b>Jessica Goldsworthy,</b> Michigan State University, NSF-REU (Pharm D. Program, Ferris State University)</p>
+                        <p><b>Jessica Goldsworthy,</b> Michigan State University, NSF-REU</p>
                         <p><b>Tom Liu,</b> Ladue High School, STARS Intern</p>
                         <p><b>Allison Tielking,</b> MICDS, Independent Intern</p>
                         <h4>2013</h4>
-                        <p><b>Morgan Clark,</b> Western Illinois University, NSF-REU (Chemist, Covance)</p>
+                        <p><b>Morgan Clark,</b> Western Illinois University, NSF-REU</p>
                         <p><b>Elle Gruebbeling,</b> Timberland High School, STARS Intern</p>
                         <h4>2012</h4>
                         <p><b>Savannah Est,</b> Holt High School, Independent Intern</p>
